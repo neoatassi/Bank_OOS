@@ -1,0 +1,16 @@
+Index: src/bank/Payment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/bank/Payment.java b/src/bank/Payment.java
+--- a/src/bank/Payment.java	
++++ b/src/bank/Payment.java	(date 1666101038872)
+@@ -1,6 +1,6 @@
+ package bank;
+ 
+-public class Payment extends Transaction{
++public class Payment{
+     /**
+      * Zeitpunkt einer Ein- oder Auszahlung bzw. einer Ueberweisung
+      */
